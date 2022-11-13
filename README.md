@@ -1,2 +1,2 @@
-﻿# Dice-Game
-# Dice-Game made with HTML,CSS,Javascript
+# Dice-Game
+Dice-Game made with HTML,CSS,Javascript
